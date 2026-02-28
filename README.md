@@ -44,16 +44,16 @@ Ideal para fins educacionais, diagnóstico rápido ou estudos sobre redes e auto
 ## ▶ Como Executar
 
 1. Clone o repositório:
-
+git clone https://github.com/juniordevti/painelderede.git
 
 2. Acesse a pasta do projeto:
-
+cd painel-rede
 
 3. Instale as dependências (caso necessário):
-
+pip install requests
 
 4. Execute o projeto:
-
+python main.py
 
 ---
 
